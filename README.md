@@ -1,6 +1,7 @@
 # Wikipedia-Introduction-Extractor
 This project uses Java to take a topic from the user and return the Introduction section from Wikipedia for that topic.
 
+The following description is also present in the "Documentation For Wikipedia Introduction Extractor.docx" attached here.
 
 Format to enter the input:
 1.	Through command line -
